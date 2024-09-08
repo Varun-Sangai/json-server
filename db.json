@@ -362,7 +362,7 @@
         "name": "The Weeknd",
         "streamCount": 269
       },
-      "streamCount": 200,
+      "streamCount":30 ,
       "lastStreamedDate": "2024-09-05",
       "user": {
         "id": 1,
@@ -377,7 +377,7 @@
       "artist": {
         "id": 2,
         "name": "Ed Sheeran",
-        "streamCount": 215
+        "streamCount": 1
       },
       "streamCount": 150,
       "lastStreamedDate": "2024-09-04",
@@ -430,7 +430,7 @@
         "name": "Tones and I",
         "streamCount": 131
       },
-      "streamCount": 80,
+      "streamCount": 55,
       "lastStreamedDate": "2024-09-01",
       "user": {
         "id": 5,
@@ -464,7 +464,7 @@
         "name": "Michael Jackson",
         "streamCount": 102
       },
-      "streamCount": 60,
+      "streamCount": 40,
       "lastStreamedDate": "2024-08-29",
       "user": {
         "id": 7,
@@ -481,7 +481,7 @@
         "name": "Billie Eilish",
         "streamCount": 93
       },
-      "streamCount": 55,
+      "streamCount": 80,
       "lastStreamedDate": "2024-08-28",
       "user": {
         "id": 8,
@@ -532,7 +532,7 @@
         "name": "The Weeknd",
         "streamCount": 269
       },
-      "streamCount": 40,
+      "streamCount": 60,
       "lastStreamedDate": "2024-08-25",
       "user": {
         "id": 11,
@@ -600,7 +600,7 @@
         "name": "Tones and I",
         "streamCount": 131
       },
-      "streamCount": 30,
+      "streamCount": 200,
       "lastStreamedDate": "2024-08-21",
       "user": {
         "id": 15,
@@ -1195,7 +1195,7 @@
         "name": "Justin Bieber",
         "streamCount": 77
       },
-      "streamCount": 1,
+      "streamCount": 215,
       "lastStreamedDate": "2024-07-17",
       "user": {
         "id": 50,
