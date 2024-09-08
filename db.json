@@ -1206,9 +1206,9 @@
     }
   ],
   "stats": {
-    "totalStreamCount": 1425,
     "totalUsers": 50,
     "totalActiveUsers": 35,
+    "totalStreamCount": 1425,
     "totalRevenue": 50000,
     "mostPlayedArtist": {
       "id": 2,
