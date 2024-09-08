@@ -1,0 +1,1291 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice Smith",
+      "isActive": true,
+      "isSubscribed": true
+    },
+    {
+      "id": 2,
+      "name": "Bob Johnson",
+      "isActive": true,
+      "isSubscribed": false
+    },
+    {
+      "id": 3,
+      "name": "Carol Williams",
+      "isActive": false,
+      "isSubscribed": true
+    },
+    {
+      "id": 4,
+      "name": "David Brown",
+      "isActive": true,
+      "isSubscribed": false
+    },
+    {
+      "id": 5,
+      "name": "Emily Davis",
+      "isActive": false,
+      "isSubscribed": true
+    },
+    {
+      "id": 6,
+      "name": "Frank Miller",
+      "isActive": true,
+      "isSubscribed": false
+    },
+    {
+      "id": 7,
+      "name": "Grace Wilson",
+      "isActive": true,
+      "isSubscribed": true
+    },
+    {
+      "id": 8,
+      "name": "Hank Moore",
+      "isActive": false,
+      "isSubscribed": false
+    },
+    {
+      "id": 9,
+      "name": "Ivy Taylor",
+      "isActive": true,
+      "isSubscribed": true
+    },
+    {
+      "id": 10,
+      "name": "Jack Anderson",
+      "isActive": true,
+      "isSubscribed": true
+    },
+    {
+      "id": 11,
+      "name": "Kathy Thomas",
+      "isActive": true,
+      "isSubscribed": false
+    },
+    {
+      "id": 12,
+      "name": "Liam Jackson",
+      "isActive": false,
+      "isSubscribed": true
+    },
+    {
+      "id": 13,
+      "name": "Mia White",
+      "isActive": true,
+      "isSubscribed": false
+    },
+    {
+      "id": 14,
+      "name": "Nathan Harris",
+      "isActive": false,
+      "isSubscribed": true
+    },
+    {
+      "id": 15,
+      "name": "Olivia Martin",
+      "isActive": true,
+      "isSubscribed": false
+    },
+    {
+      "id": 16,
+      "name": "Paul Clark",
+      "isActive": true,
+      "isSubscribed": true
+    },
+    {
+      "id": 17,
+      "name": "Quinn Lewis",
+      "isActive": false,
+      "isSubscribed": false
+    },
+    {
+      "id": 18,
+      "name": "Rachel Walker",
+      "isActive": true,
+      "isSubscribed": true
+    },
+    {
+      "id": 19,
+      "name": "Sam Young",
+      "isActive": true,
+      "isSubscribed": false
+    },
+    {
+      "id": 20,
+      "name": "Tina Hall",
+      "isActive": false,
+      "isSubscribed": true
+    },
+    {
+      "id": 21,
+      "name": "Ulysses Allen",
+      "isActive": true,
+      "isSubscribed": true
+    },
+    {
+      "id": 22,
+      "name": "Victoria Scott",
+      "isActive": true,
+      "isSubscribed": false
+    },
+    {
+      "id": 23,
+      "name": "Will Adams",
+      "isActive": true,
+      "isSubscribed": true
+    },
+    {
+      "id": 24,
+      "name": "Xena Baker",
+      "isActive": false,
+      "isSubscribed": false
+    },
+    {
+      "id": 25,
+      "name": "Yvonne Nelson",
+      "isActive": true,
+      "isSubscribed": true
+    },
+    {
+      "id": 26,
+      "name": "Zachary Carter",
+      "isActive": true,
+      "isSubscribed": false
+    },
+    {
+      "id": 27,
+      "name": "Amanda Mitchell",
+      "isActive": true,
+      "isSubscribed": true
+    },
+    {
+      "id": 28,
+      "name": "Brian Perez",
+      "isActive": false,
+      "isSubscribed": true
+    },
+    {
+      "id": 29,
+      "name": "Catherine Roberts",
+      "isActive": true,
+      "isSubscribed": false
+    },
+    {
+      "id": 30,
+      "name": "Derek Evans",
+      "isActive": true,
+      "isSubscribed": true
+    },
+    {
+      "id": 31,
+      "name": "Ella Turner",
+      "isActive": false,
+      "isSubscribed": true
+    },
+    {
+      "id": 32,
+      "name": "Fred Collins",
+      "isActive": true,
+      "isSubscribed": false
+    },
+    {
+      "id": 33,
+      "name": "Gina Murphy",
+      "isActive": true,
+      "isSubscribed": true
+    },
+    {
+      "id": 34,
+      "name": "Harry Richardson",
+      "isActive": false,
+      "isSubscribed": true
+    },
+    {
+      "id": 35,
+      "name": "Iris Howard",
+      "isActive": true,
+      "isSubscribed": false
+    },
+    {
+      "id": 36,
+      "name": "James Carter",
+      "isActive": true,
+      "isSubscribed": true
+    },
+    {
+      "id": 37,
+      "name": "Kimberly James",
+      "isActive": true,
+      "isSubscribed": false
+    },
+    {
+      "id": 38,
+      "name": "Leo Green",
+      "isActive": false,
+      "isSubscribed": true
+    },
+    {
+      "id": 39,
+      "name": "Maya Bell",
+      "isActive": true,
+      "isSubscribed": false
+    },
+    {
+      "id": 40,
+      "name": "Nina Walker",
+      "isActive": true,
+      "isSubscribed": true
+    },
+    {
+      "id": 41,
+      "name": "Oscar Adams",
+      "isActive": true,
+      "isSubscribed": false
+    },
+    {
+      "id": 42,
+      "name": "Paige Evans",
+      "isActive": false,
+      "isSubscribed": true
+    },
+    {
+      "id": 43,
+      "name": "Quincy Mitchell",
+      "isActive": true,
+      "isSubscribed": false
+    },
+    {
+      "id": 44,
+      "name": "Rachel King",
+      "isActive": true,
+      "isSubscribed": true
+    },
+    {
+      "id": 45,
+      "name": "Steven Wright",
+      "isActive": false,
+      "isSubscribed": false
+    },
+    {
+      "id": 46,
+      "name": "Tina Stewart",
+      "isActive": true,
+      "isSubscribed": true
+    },
+    {
+      "id": 47,
+      "name": "Ursula Wright",
+      "isActive": true,
+      "isSubscribed": false
+    },
+    {
+      "id": 48,
+      "name": "Victor Turner",
+      "isActive": false,
+      "isSubscribed": true
+    },
+    {
+      "id": 49,
+      "name": "Wendy Bell",
+      "isActive": true,
+      "isSubscribed": false
+    },
+    {
+      "id": 50,
+      "name": "Xander Scott",
+      "isActive": true,
+      "isSubscribed": true
+    }
+  ],
+  "artists": [
+    {
+      "id": 1,
+      "name": "The Weeknd",
+      "streamCount": 269
+    },
+    {
+      "id": 2,
+      "name": "Ed Sheeran",
+      "streamCount": 215
+    },
+    {
+      "id": 3,
+      "name": "Dua Lipa",
+      "streamCount": 180
+    },
+    {
+      "id": 4,
+      "name": "Mark Ronson",
+      "streamCount": 156
+    },
+    {
+      "id": 5,
+      "name": "Tones and I",
+      "streamCount": 131
+    },
+    {
+      "id": 6,
+      "name": "Harry Styles",
+      "streamCount": 117
+    },
+    {
+      "id": 7,
+      "name": "Michael Jackson",
+      "streamCount": 102
+    },
+    {
+      "id": 8,
+      "name": "Billie Eilish",
+      "streamCount": 93
+    },
+    {
+      "id": 9,
+      "name": "Olivia Rodrigo",
+      "streamCount": 85
+    },
+    {
+      "id": 10,
+      "name": "Justin Bieber",
+      "streamCount": 77
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "title": "Blinding Lights",
+      "artist": {
+        "id": 1,
+        "name": "The Weeknd",
+        "streamCount": 269
+      },
+      "streamCount": 200,
+      "lastStreamedDate": "2024-09-05",
+      "user": {
+        "id": 1,
+        "name": "Alice Smith",
+        "isActive": true,
+        "isSubscribed": true
+      }
+    },
+    {
+      "id": 2,
+      "title": "Shape of You",
+      "artist": {
+        "id": 2,
+        "name": "Ed Sheeran",
+        "streamCount": 215
+      },
+      "streamCount": 150,
+      "lastStreamedDate": "2024-09-04",
+      "user": {
+        "id": 2,
+        "name": "Bob Johnson",
+        "isActive": true,
+        "isSubscribed": false
+      }
+    },
+    {
+      "id": 3,
+      "title": "Levitating",
+      "artist": {
+        "id": 3,
+        "name": "Dua Lipa",
+        "streamCount": 180
+      },
+      "streamCount": 120,
+      "lastStreamedDate": "2024-09-03",
+      "user": {
+        "id": 3,
+        "name": "Carol Williams",
+        "isActive": false,
+        "isSubscribed": true
+      }
+    },
+    {
+      "id": 4,
+      "title": "Uptown Funk",
+      "artist": {
+        "id": 4,
+        "name": "Mark Ronson",
+        "streamCount": 156
+      },
+      "streamCount": 100,
+      "lastStreamedDate": "2024-09-02",
+      "user": {
+        "id": 4,
+        "name": "David Brown",
+        "isActive": true,
+        "isSubscribed": false
+      }
+    },
+    {
+      "id": 5,
+      "title": "Dance Monkey",
+      "artist": {
+        "id": 5,
+        "name": "Tones and I",
+        "streamCount": 131
+      },
+      "streamCount": 80,
+      "lastStreamedDate": "2024-09-01",
+      "user": {
+        "id": 5,
+        "name": "Emily Davis",
+        "isActive": false,
+        "isSubscribed": true
+      }
+    },
+    {
+      "id": 6,
+      "title": "Watermelon Sugar",
+      "artist": {
+        "id": 6,
+        "name": "Harry Styles",
+        "streamCount": 117
+      },
+      "streamCount": 70,
+      "lastStreamedDate": "2024-08-30",
+      "user": {
+        "id": 6,
+        "name": "Frank Miller",
+        "isActive": true,
+        "isSubscribed": false
+      }
+    },
+    {
+      "id": 7,
+      "title": "Blame It On The Boogie",
+      "artist": {
+        "id": 7,
+        "name": "Michael Jackson",
+        "streamCount": 102
+      },
+      "streamCount": 60,
+      "lastStreamedDate": "2024-08-29",
+      "user": {
+        "id": 7,
+        "name": "Grace Wilson",
+        "isActive": true,
+        "isSubscribed": true
+      }
+    },
+    {
+      "id": 8,
+      "title": "Bad Guy",
+      "artist": {
+        "id": 8,
+        "name": "Billie Eilish",
+        "streamCount": 93
+      },
+      "streamCount": 55,
+      "lastStreamedDate": "2024-08-28",
+      "user": {
+        "id": 8,
+        "name": "Hank Moore",
+        "isActive": false,
+        "isSubscribed": false
+      }
+    },
+    {
+      "id": 9,
+      "title": "Good 4 U",
+      "artist": {
+        "id": 9,
+        "name": "Olivia Rodrigo",
+        "streamCount": 85
+      },
+      "streamCount": 50,
+      "lastStreamedDate": "2024-08-27",
+      "user": {
+        "id": 9,
+        "name": "Ivy Taylor",
+        "isActive": true,
+        "isSubscribed": true
+      }
+    },
+    {
+      "id": 10,
+      "title": "Peaches",
+      "artist": {
+        "id": 10,
+        "name": "Justin Bieber",
+        "streamCount": 77
+      },
+      "streamCount": 45,
+      "lastStreamedDate": "2024-08-26",
+      "user": {
+        "id": 10,
+        "name": "Jack Anderson",
+        "isActive": true,
+        "isSubscribed": true
+      }
+    },
+    {
+      "id": 11,
+      "title": "Stay",
+      "artist": {
+        "id": 1,
+        "name": "The Weeknd",
+        "streamCount": 269
+      },
+      "streamCount": 40,
+      "lastStreamedDate": "2024-08-25",
+      "user": {
+        "id": 11,
+        "name": "Kathy Thomas",
+        "isActive": true,
+        "isSubscribed": false
+      }
+    },
+    {
+      "id": 12,
+      "title": "Savage Love",
+      "artist": {
+        "id": 2,
+        "name": "Ed Sheeran",
+        "streamCount": 215
+      },
+      "streamCount": 38,
+      "lastStreamedDate": "2024-08-24",
+      "user": {
+        "id": 12,
+        "name": "Liam Jackson",
+        "isActive": false,
+        "isSubscribed": true
+      }
+    },
+    {
+      "id": 13,
+      "title": "ROCKSTAR",
+      "artist": {
+        "id": 3,
+        "name": "Dua Lipa",
+        "streamCount": 180
+      },
+      "streamCount": 35,
+      "lastStreamedDate": "2024-08-23",
+      "user": {
+        "id": 13,
+        "name": "Mia White",
+        "isActive": true,
+        "isSubscribed": false
+      }
+    },
+    {
+      "id": 14,
+      "title": "Mood",
+      "artist": {
+        "id": 4,
+        "name": "Mark Ronson",
+        "streamCount": 156
+      },
+      "streamCount": 33,
+      "lastStreamedDate": "2024-08-22",
+      "user": {
+        "id": 14,
+        "name": "Nathan Harris",
+        "isActive": false,
+        "isSubscribed": true
+      }
+    },
+    {
+      "id": 15,
+      "title": "Stupid Love",
+      "artist": {
+        "id": 5,
+        "name": "Tones and I",
+        "streamCount": 131
+      },
+      "streamCount": 30,
+      "lastStreamedDate": "2024-08-21",
+      "user": {
+        "id": 15,
+        "name": "Olivia Martin",
+        "isActive": true,
+        "isSubscribed": false
+      }
+    },
+    {
+      "id": 16,
+      "title": "The Box",
+      "artist": {
+        "id": 6,
+        "name": "Harry Styles",
+        "streamCount": 117
+      },
+      "streamCount": 28,
+      "lastStreamedDate": "2024-08-20",
+      "user": {
+        "id": 16,
+        "name": "Paul Clark",
+        "isActive": true,
+        "isSubscribed": true
+      }
+    },
+    {
+      "id": 17,
+      "title": "Intentions",
+      "artist": {
+        "id": 7,
+        "name": "Michael Jackson",
+        "streamCount": 102
+      },
+      "streamCount": 25,
+      "lastStreamedDate": "2024-08-19",
+      "user": {
+        "id": 17,
+        "name": "Quinn Lewis",
+        "isActive": false,
+        "isSubscribed": false
+      }
+    },
+    {
+      "id": 18,
+      "title": "Supalonely",
+      "artist": {
+        "id": 8,
+        "name": "Billie Eilish",
+        "streamCount": 93
+      },
+      "streamCount": 23,
+      "lastStreamedDate": "2024-08-18",
+      "user": {
+        "id": 18,
+        "name": "Rachel Walker",
+        "isActive": true,
+        "isSubscribed": true
+      }
+    },
+    {
+      "id": 19,
+      "title": "Midnight City",
+      "artist": {
+        "id": 9,
+        "name": "Olivia Rodrigo",
+        "streamCount": 85
+      },
+      "streamCount": 22,
+      "lastStreamedDate": "2024-08-17",
+      "user": {
+        "id": 19,
+        "name": "Sam Young",
+        "isActive": true,
+        "isSubscribed": false
+      }
+    },
+    {
+      "id": 20,
+      "title": "Sunflower",
+      "artist": {
+        "id": 10,
+        "name": "Justin Bieber",
+        "streamCount": 77
+      },
+      "streamCount": 20,
+      "lastStreamedDate": "2024-08-16",
+      "user": {
+        "id": 20,
+        "name": "Tina Hall",
+        "isActive": false,
+        "isSubscribed": true
+      }
+    },
+    {
+      "id": 21,
+      "title": "Circles",
+      "artist": {
+        "id": 1,
+        "name": "The Weeknd",
+        "streamCount": 269
+      },
+      "streamCount": 19,
+      "lastStreamedDate": "2024-08-15",
+      "user": {
+        "id": 21,
+        "name": "Ulysses Allen",
+        "isActive": true,
+        "isSubscribed": true
+      }
+    },
+    {
+      "id": 22,
+      "title": "Don't Start Now",
+      "artist": {
+        "id": 2,
+        "name": "Ed Sheeran",
+        "streamCount": 215
+      },
+      "streamCount": 18,
+      "lastStreamedDate": "2024-08-14",
+      "user": {
+        "id": 22,
+        "name": "Victoria Scott",
+        "isActive": true,
+        "isSubscribed": false
+      }
+    },
+    {
+      "id": 23,
+      "title": "Dynamite",
+      "artist": {
+        "id": 3,
+        "name": "Dua Lipa",
+        "streamCount": 180
+      },
+      "streamCount": 17,
+      "lastStreamedDate": "2024-08-13",
+      "user": {
+        "id": 23,
+        "name": "Will Adams",
+        "isActive": true,
+        "isSubscribed": true
+      }
+    },
+    {
+      "id": 24,
+      "title": "One Dance",
+      "artist": {
+        "id": 4,
+        "name": "Mark Ronson",
+        "streamCount": 156
+      },
+      "streamCount": 16,
+      "lastStreamedDate": "2024-08-12",
+      "user": {
+        "id": 24,
+        "name": "Xena Baker",
+        "isActive": false,
+        "isSubscribed": false
+      }
+    },
+    {
+      "id": 25,
+      "title": "Old Town Road",
+      "artist": {
+        "id": 5,
+        "name": "Tones and I",
+        "streamCount": 131
+      },
+      "streamCount": 15,
+      "lastStreamedDate": "2024-08-11",
+      "user": {
+        "id": 25,
+        "name": "Yvonne Nelson",
+        "isActive": true,
+        "isSubscribed": true
+      }
+    },
+    {
+      "id": 26,
+      "title": "Without Me",
+      "artist": {
+        "id": 6,
+        "name": "Harry Styles",
+        "streamCount": 117
+      },
+      "streamCount": 14,
+      "lastStreamedDate": "2024-08-10",
+      "user": {
+        "id": 26,
+        "name": "Zachary Carter",
+        "isActive": true,
+        "isSubscribed": false
+      }
+    },
+    {
+      "id": 27,
+      "title": "Someone You Loved",
+      "artist": {
+        "id": 7,
+        "name": "Michael Jackson",
+        "streamCount": 102
+      },
+      "streamCount": 13,
+      "lastStreamedDate": "2024-08-09",
+      "user": {
+        "id": 27,
+        "name": "Amanda Mitchell",
+        "isActive": true,
+        "isSubscribed": true
+      }
+    },
+    {
+      "id": 28,
+      "title": "Happier",
+      "artist": {
+        "id": 8,
+        "name": "Billie Eilish",
+        "streamCount": 93
+      },
+      "streamCount": 12,
+      "lastStreamedDate": "2024-08-08",
+      "user": {
+        "id": 28,
+        "name": "Brian Perez",
+        "isActive": false,
+        "isSubscribed": true
+      }
+    },
+    {
+      "id": 29,
+      "title": "Senorita",
+      "artist": {
+        "id": 9,
+        "name": "Olivia Rodrigo",
+        "streamCount": 85
+      },
+      "streamCount": 11,
+      "lastStreamedDate": "2024-08-07",
+      "user": {
+        "id": 29,
+        "name": "Catherine Roberts",
+        "isActive": true,
+        "isSubscribed": false
+      }
+    },
+    {
+      "id": 30,
+      "title": "Memories",
+      "artist": {
+        "id": 10,
+        "name": "Justin Bieber",
+        "streamCount": 77
+      },
+      "streamCount": 10,
+      "lastStreamedDate": "2024-08-06",
+      "user": {
+        "id": 30,
+        "name": "Derek Evans",
+        "isActive": true,
+        "isSubscribed": true
+      }
+    },
+    {
+      "id": 31,
+      "title": "God's Plan",
+      "artist": {
+        "id": 1,
+        "name": "The Weeknd",
+        "streamCount": 269
+      },
+      "streamCount": 9,
+      "lastStreamedDate": "2024-08-05",
+      "user": {
+        "id": 31,
+        "name": "Ella Turner",
+        "isActive": false,
+        "isSubscribed": true
+      }
+    },
+    {
+      "id": 32,
+      "title": "Thank U, Next",
+      "artist": {
+        "id": 2,
+        "name": "Ed Sheeran",
+        "streamCount": 215
+      },
+      "streamCount": 8,
+      "lastStreamedDate": "2024-08-04",
+      "user": {
+        "id": 32,
+        "name": "Fred Collins",
+        "isActive": true,
+        "isSubscribed": false
+      }
+    },
+    {
+      "id": 33,
+      "title": "Bad Habits",
+      "artist": {
+        "id": 3,
+        "name": "Dua Lipa",
+        "streamCount": 180
+      },
+      "streamCount": 7,
+      "lastStreamedDate": "2024-08-03",
+      "user": {
+        "id": 33,
+        "name": "Gina Murphy",
+        "isActive": true,
+        "isSubscribed": true
+      }
+    },
+    {
+      "id": 34,
+      "title": "Shivers",
+      "artist": {
+        "id": 4,
+        "name": "Mark Ronson",
+        "streamCount": 156
+      },
+      "streamCount": 6,
+      "lastStreamedDate": "2024-08-02",
+      "user": {
+        "id": 34,
+        "name": "Harry Richardson",
+        "isActive": false,
+        "isSubscribed": true
+      }
+    },
+    {
+      "id": 35,
+      "title": "I Like It",
+      "artist": {
+        "id": 5,
+        "name": "Tones and I",
+        "streamCount": 131
+      },
+      "streamCount": 5,
+      "lastStreamedDate": "2024-08-01",
+      "user": {
+        "id": 35,
+        "name": "Iris Howard",
+        "isActive": true,
+        "isSubscribed": false
+      }
+    },
+    {
+      "id": 36,
+      "title": "7 Rings",
+      "artist": {
+        "id": 6,
+        "name": "Harry Styles",
+        "streamCount": 117
+      },
+      "streamCount": 4,
+      "lastStreamedDate": "2024-07-31",
+      "user": {
+        "id": 36,
+        "name": "James Carter",
+        "isActive": true,
+        "isSubscribed": true
+      }
+    },
+    {
+      "id": 37,
+      "title": "Dance Again",
+      "artist": {
+        "id": 7,
+        "name": "Michael Jackson",
+        "streamCount": 102
+      },
+      "streamCount": 3,
+      "lastStreamedDate": "2024-07-30",
+      "user": {
+        "id": 37,
+        "name": "Kimberly James",
+        "isActive": true,
+        "isSubscribed": false
+      }
+    },
+    {
+      "id": 38,
+      "title": "Taki Taki",
+      "artist": {
+        "id": 8,
+        "name": "Billie Eilish",
+        "streamCount": 93
+      },
+      "streamCount": 2,
+      "lastStreamedDate": "2024-07-29",
+      "user": {
+        "id": 38,
+        "name": "Leo Green",
+        "isActive": false,
+        "isSubscribed": true
+      }
+    },
+    {
+      "id": 39,
+      "title": "Finesse",
+      "artist": {
+        "id": 9,
+        "name": "Olivia Rodrigo",
+        "streamCount": 85
+      },
+      "streamCount": 1,
+      "lastStreamedDate": "2024-07-28",
+      "user": {
+        "id": 39,
+        "name": "Maya Bell",
+        "isActive": true,
+        "isSubscribed": false
+      }
+    },
+    {
+      "id": 40,
+      "title": "Havana",
+      "artist": {
+        "id": 10,
+        "name": "Justin Bieber",
+        "streamCount": 77
+      },
+      "streamCount": 1,
+      "lastStreamedDate": "2024-07-27",
+      "user": {
+        "id": 40,
+        "name": "Nina Walker",
+        "isActive": true,
+        "isSubscribed": true
+      }
+    },
+    {
+      "id": 41,
+      "title": "Shallow",
+      "artist": {
+        "id": 1,
+        "name": "The Weeknd",
+        "streamCount": 269
+      },
+      "streamCount": 1,
+      "lastStreamedDate": "2024-07-26",
+      "user": {
+        "id": 41,
+        "name": "Oscar Adams",
+        "isActive": true,
+        "isSubscribed": false
+      }
+    },
+    {
+      "id": 42,
+      "title": "WAP",
+      "artist": {
+        "id": 2,
+        "name": "Ed Sheeran",
+        "streamCount": 215
+      },
+      "streamCount": 1,
+      "lastStreamedDate": "2024-07-25",
+      "user": {
+        "id": 42,
+        "name": "Paige Evans",
+        "isActive": false,
+        "isSubscribed": true
+      }
+    },
+    {
+      "id": 43,
+      "title": "Sicko Mode",
+      "artist": {
+        "id": 3,
+        "name": "Dua Lipa",
+        "streamCount": 180
+      },
+      "streamCount": 1,
+      "lastStreamedDate": "2024-07-24",
+      "user": {
+        "id": 43,
+        "name": "Quincy Mitchell",
+        "isActive": true,
+        "isSubscribed": false
+      }
+    },
+    {
+      "id": 44,
+      "title": "Rockstar",
+      "artist": {
+        "id": 4,
+        "name": "Mark Ronson",
+        "streamCount": 156
+      },
+      "streamCount": 1,
+      "lastStreamedDate": "2024-07-23",
+      "user": {
+        "id": 44,
+        "name": "Rachel King",
+        "isActive": true,
+        "isSubscribed": true
+      }
+    },
+    {
+      "id": 45,
+      "title": "Savage",
+      "artist": {
+        "id": 5,
+        "name": "Tones and I",
+        "streamCount": 131
+      },
+      "streamCount": 1,
+      "lastStreamedDate": "2024-07-22",
+      "user": {
+        "id": 45,
+        "name": "Steven Wright",
+        "isActive": false,
+        "isSubscribed": false
+      }
+    },
+    {
+      "id": 46,
+      "title": "Butter",
+      "artist": {
+        "id": 6,
+        "name": "Harry Styles",
+        "streamCount": 117
+      },
+      "streamCount": 1,
+      "lastStreamedDate": "2024-07-21",
+      "user": {
+        "id": 46,
+        "name": "Tina Stewart",
+        "isActive": true,
+        "isSubscribed": true
+      }
+    },
+    {
+      "id": 47,
+      "title": "Industry Baby",
+      "artist": {
+        "id": 7,
+        "name": "Michael Jackson",
+        "streamCount": 102
+      },
+      "streamCount": 1,
+      "lastStreamedDate": "2024-07-20",
+      "user": {
+        "id": 47,
+        "name": "Ursula Wright",
+        "isActive": true,
+        "isSubscribed": false
+      }
+    },
+    {
+      "id": 48,
+      "title": "Montero",
+      "artist": {
+        "id": 8,
+        "name": "Billie Eilish",
+        "streamCount": 93
+      },
+      "streamCount": 1,
+      "lastStreamedDate": "2024-07-19",
+      "user": {
+        "id": 48,
+        "name": "Victor Turner",
+        "isActive": false,
+        "isSubscribed": true
+      }
+    },
+    {
+      "id": 49,
+      "title": "Kiss Me More",
+      "artist": {
+        "id": 9,
+        "name": "Olivia Rodrigo",
+        "streamCount": 85
+      },
+      "streamCount": 1,
+      "lastStreamedDate": "2024-07-18",
+      "user": {
+        "id": 49,
+        "name": "Wendy Bell",
+        "isActive": true,
+        "isSubscribed": false
+      }
+    },
+    {
+      "id": 50,
+      "title": "Peaches",
+      "artist": {
+        "id": 10,
+        "name": "Justin Bieber",
+        "streamCount": 77
+      },
+      "streamCount": 1,
+      "lastStreamedDate": "2024-07-17",
+      "user": {
+        "id": 50,
+        "name": "Xander Scott",
+        "isActive": true,
+        "isSubscribed": true
+      }
+    }
+  ],
+  "stats": {
+    "totalStreamCount": 1425,
+    "totalUsers": 50,
+    "totalActiveUsers": 35,
+    "totalRevenue": 50000,
+    "mostPlayedArtist": {
+      "id": 2,
+      "name": "Ed Sheeran",
+      "streamCount": 215
+    }
+  },
+  "user-growth": [
+    {
+      "month": "Jan",
+      "users": 10,
+      "activeUsers": 5
+    },
+    {
+      "month": "Feb",
+      "users": 12,
+      "activeUsers": 7
+    },
+    {
+      "month": "Mar",
+      "users": 15,
+      "activeUsers": 10
+    },
+    {
+      "month": "Apr",
+      "users": 25,
+      "activeUsers": 12
+    },
+    {
+      "month": "May",
+      "users": 30,
+      "activeUsers": 15
+    },
+    {
+      "month": "Jun",
+      "users": 32,
+      "activeUsers": 17
+    },
+    {
+      "month": "Jul",
+      "users": 35,
+      "activeUsers": 20
+    },
+    {
+      "month": "Aug",
+      "users": 37,
+      "activeUsers": 22
+    },
+    {
+      "month": "Sep",
+      "users": 40,
+      "activeUsers": 25
+    },
+    {
+      "month": "Oct",
+      "users": 42,
+      "activeUsers": 27
+    },
+    {
+      "month": "Nov",
+      "users": 45,
+      "activeUsers": 30
+    },
+    {
+      "month": "Dec",
+      "users": 50,
+      "activeUsers": 35
+    }
+  ],
+  "revenue-distribution": [
+    {
+      "source": "Subscriptions",
+      "amount": 30000
+    },
+    {
+      "source": "Advertisements",
+      "amount": 20000
+    }
+  ]
+}
