@@ -1211,7 +1211,7 @@
     "totalStreamCount": 1425,
     "totalRevenue": 50000
   },
-  "mostPlayedArtist": {
+  "most-played-artist": {
       "id": 2,
       "name": "Ed Sheeran",
       "streamCount": 215
